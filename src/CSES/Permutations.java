@@ -29,6 +29,6 @@ public class Permutations {
         for (int i = 0; i < n; i++) {
             System.out.print(beautiful[i] + " ");
         }
-        sc.close();
+//        sc.close();
     }
 }
